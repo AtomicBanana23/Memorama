@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Memorama\Memorama\bin\Debug\net6.0-windows\Memorama.exe
+C:\Users\user\source\repos\Memorama\Memorama\bin\Debug\net6.0-windows\Memorama.deps.json
+C:\Users\user\source\repos\Memorama\Memorama\bin\Debug\net6.0-windows\Memorama.runtimeconfig.json
+C:\Users\user\source\repos\Memorama\Memorama\bin\Debug\net6.0-windows\Memorama.dll
+C:\Users\user\source\repos\Memorama\Memorama\bin\Debug\net6.0-windows\Memorama.pdb
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.Form1.resources
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.AssemblyInfo.cs
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.dll
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\refint\Memorama.dll
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.pdb
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\Memorama.genruntimeconfig.cache
+C:\Users\user\source\repos\Memorama\Memorama\obj\Debug\net6.0-windows\ref\Memorama.dll
